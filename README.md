@@ -20,6 +20,13 @@ This was the first time I explored NavMesh/NavMeshAgent In Unity and i was reall
 
 https://github.com/MyNamesLex/Survival-Horror-Game
 _________________________________________________________________________________________________________________________________________________________________________
+Professional Development Game:
+
+This was an important game I made in a team in University, it taught me a lot about what I like / don't like about working in a team and helped me develop a lot of important skills on how to deal with people in all sorts of scenarios as a leader in a team.
+
+
+
+_________________________________________________________________________________________________________________________________________________________________________
 Falling Game I made in my first year of University:
 
 

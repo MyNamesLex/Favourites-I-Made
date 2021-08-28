@@ -30,7 +30,7 @@ ________________________________________________________________________________
 Falling Game I made in my first year of University:
 
 
-This may not be the most sophisticated/best game I have ever made but I am still really fond of this one because the sense of accomplishment I got from making a game that actually felt like a proper game was unparralleled for me and it holds a lot of memories and overall reason why I love to make games
+This may not be the most sophisticated/best game I have ever made but I am still really fond of this one because the sense of accomplishment I got from making a game that actually felt like a proper game was unparalleled for me and it holds a lot of memories and overall reason why I love to make games
 
 https://github.com/MyNamesLex/Falling-Game-University
 _________________________________________________________________________________________________________________________________________________________________________

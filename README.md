@@ -19,13 +19,6 @@ Skyrim custom follower mod:
 I was happy i was able to understand the creation kit and understand what i like and don't like about the creation kit
 
 https://github.com/MyNamesLex/Modding/tree/Skyrim
-_________________________________________________________________________________________________________________________________________________________________________
-Survival Horror Game:
-
-
-This was the first time I explored NavMesh/NavMeshAgent In Unity and i was really happy with the results when I finally got it to work properly and had a solid foundation on how it works and how to set it up properly
-
-https://github.com/MyNamesLex/Small-Unity-Games/tree/PC
 __________________________________________________________________________________________________
 Falling Game I made in my first year of University:
 

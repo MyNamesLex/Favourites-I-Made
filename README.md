@@ -18,7 +18,7 @@ Skyrim custom follower mod:
 
 I was happy i was able to understand the creation kit and understand what i like and don't like about the creation kit
 
-https://github.com/MyNamesLex/Modding/tree/Skyrim
+https://github.com/MyNamesLex/Modding/tree/main/Skyrim
 __________________________________________________________________________________________________
 Falling Game I made in my first year of University:
 

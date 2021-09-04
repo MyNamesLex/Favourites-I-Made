@@ -13,12 +13,9 @@ This is one of the better games I have done for game jams
 
 https://lexingto.itch.io/viable
 _________________________________________________________________________________________________________________________________________________________________________
-Skyrim custom follower mod:
+Kyte Bot:
 
 
-I was happy i was able to understand the creation kit and understand what i like and don't like about the creation kit
-
-https://github.com/MyNamesLex/Modding/tree/main/Skyrim
 __________________________________________________________________________________________________
 Falling Game I made in my first year of University:
 

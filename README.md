@@ -19,10 +19,9 @@ Having fun making a Discord Bot passively, it isn't fully functional but I like 
 
 https://github.com/MyNamesLex/Kyte-Bot
 __________________________________________________________________________________________________
-Falling Game I made in my first year of University:
+Procedural Generation:
 
+I learned a lot from following the Brackey's tutorial and I think it looks really cool, I also did a different type of terrain generation aswell which is also cool looking but personally, i really like the wave effect that I added to Procedural-Generation.rar
 
-This may not be the most sophisticated/best game I have ever made but I am still really fond of this one because the sense of accomplishment I got from making a game that actually felt like a proper game was unparalleled for me and it holds a lot of memories and overall reason why I love to make games
-
-https://github.com/MyNamesLex/University-Work/tree/main/1st-Year/Processing/Falling%20Game/falllinggame/Player
+https://github.com/MyNamesLex/Small-Unity-Games/tree/main/PC/Terrain
 _________________________________________________________________________________________________________________________________________________________________________

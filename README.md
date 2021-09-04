@@ -15,7 +15,9 @@ https://lexingto.itch.io/viable
 _________________________________________________________________________________________________________________________________________________________________________
 Kyte Bot:
 
+Having fun making a Discord Bot passively, it isn't fully functional but I like what I made so far
 
+https://github.com/MyNamesLex/Kyte-Bot
 __________________________________________________________________________________________________
 Falling Game I made in my first year of University:
 

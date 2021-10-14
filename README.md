@@ -13,7 +13,7 @@ This is one of the better games I have done for game jams
 
 https://lexingto.itch.io/viable
 _________________________________________________________________________________________________________________________________________________________________________
-Kyte Bot:
+KyteBot:
 
 Having fun making a Discord Bot passively, it isn't fully functional but I like what I made so far
 

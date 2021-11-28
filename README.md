@@ -25,3 +25,11 @@ I learned a lot from following the Brackey's tutorial and I think it looks reall
 
 https://github.com/MyNamesLex/Small-Unity-Games/tree/main/PC/Terrain
 _________________________________________________________________________________________________________________________________________________________________________
+
+GUH 2021:
+
+This was an extremely fun and exhausting hackathon I took part in as a team, this was an extremely fun experience. My participation to the project can be found here(https://devpost.com/software/nucelar-escape)
+
+https://github.com/MyNamesLex/Great-Uni-Hack-2021
+_________________________________________________________________________________________________________________________________________________________________________
+

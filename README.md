@@ -23,7 +23,7 @@ Procedural Generation:
 
 I learned a lot from following the Brackey's tutorial and I think it looks really cool, I also did a different type of terrain generation aswell which is also cool looking but personally, i really like the wave effect that I added to Procedural-Generation.rar
 
-https://github.com/MyNamesLex/Small-Unity-Games/tree/main/PC/Terrain
+https://github.com/MyNamesLex/Small-Unity-Games/tree/main/PC/Terrain/Procedural-Generation/Procedural%20Generation
 _________________________________________________________________________________________________________________________________________________________________________
 
 GUH 2021:

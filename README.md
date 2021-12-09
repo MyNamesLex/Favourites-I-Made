@@ -4,14 +4,14 @@ Brackeys Game Jam 2021.2:
 
 A game where I explored many different aspects of Unity and learnt how to make assets by myself by using software like SFXR, Blender and Bosca Ceoil. I like this game as an overall product overall also.
 
-https://lexingto.itch.io/neon-drive
+https://mynameslex.itch.io/neon-drive
 _________________________________________________________________________________________________________________________________________________________________________
 GJL Summer 2021:
 
 
 This is one of the better games I have done for game jams
 
-https://lexingto.itch.io/viable
+https://mynameslex.itch.io/viable
 _________________________________________________________________________________________________________________________________________________________________________
 KyteBot:
 

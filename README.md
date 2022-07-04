@@ -4,7 +4,7 @@
 
 Player Controller:
 
-A tech demo where I made an in depth player controller, find out more <a href="https://github.com/MyNamesLex/Small-Unity-Tech-Demos/tree/main/PC/Player%20Controller%20Tech%20Demo">here</a>
+A tech demo where I made an in depth player controller, find out more about what I implemented and the controls for the controller <a href="https://github.com/MyNamesLex/Small-Unity-Tech-Demos/tree/main/PC/Player%20Controller%20Tech%20Demo">here</a>
 
 _________________________________________________________________________________________________________________________________________________________________________
 (Made using the Unity Game Engine using C#)

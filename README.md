@@ -9,6 +9,17 @@ A tech demo where I made an in depth player controller, find out more about what
 This features Coyote Jump, Jump Buffer, Slide, Crouch, Wall Running, Jump, Pistol, Shotgun and Knife Mechanics, First Person Camera Controller, Ground Slam, Upwards and Downwards gravity. On the more programming side it features a finite state machine to help with ease of development.
 
 _________________________________________________________________________________________________________________________________________________________________________
+(Made using Unreal Engine 5 using Blueprints and C++)
+
+Third Person Player Controller:
+
+A tech demo where I made a third person player controller, find out the controls, access to the build and source code <a href="https://github.com/MyNamesLex/Unreal-Engine-5-Tech-Demos/tree/master/PC/Third%20Person%20Controller">here</a>.
+
+This features the use of blend spaces for smoother animations for different movement inputs from the player, crawling, crouching, jumping, sprinting and the ability to move the camera closer or further from the player. 
+
+(Do note that I could not find animations for crawling to the left, back or right so I could not do a blend space for those animations.)
+
+_________________________________________________________________________________________________________________________________________________________________________
 (Made using the Unity Game Engine using C#)
 
 Search For A Star 2022:

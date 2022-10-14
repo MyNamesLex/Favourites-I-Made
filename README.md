@@ -13,11 +13,11 @@ ________________________________________________________________________________
 
 Third Person Player Controller:
 
-A tech demo where I made a third person player controller, find out the controls, access to the build and source code <a href="https://github.com/MyNamesLex/Unreal-Engine-5-Tech-Demos/tree/master/PC/Third%20Person%20Controller">here</a>.
+A tech demo where I made a third person player controller. Find out the controls, access to the build and source code <a href="https://github.com/MyNamesLex/Unreal-Engine-5-Tech-Demos/tree/master/PC/Third%20Person%20Controller">here</a>.
 
-This features the use of blend spaces for smoother animations for different movement inputs from the player, crawling, crouching, jumping, sprinting and the ability to move the camera closer or further from the player. 
+This features the use of blend spaces for smoother animations for different movement inputs from the player. The different movement inputs includes crawling, crouching, jumping, sprinting and the ability to move the camera closer or further from the player. 
 
-(Do note that I could not find animations for crawling to the left, back or right so I could not do a blend space for those animations.)
+(Do note that I could not find animations for crawling to the left, back or right so I could not do a blend space for those animations or different animations for different crawling inputs.)
 
 _________________________________________________________________________________________________________________________________________________________________________
 (Made using the Unity Game Engine using C#)

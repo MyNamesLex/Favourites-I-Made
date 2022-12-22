@@ -4,7 +4,7 @@
 
 Player Controller:
 
-A tech demo where I made an in depth player controller, find out more about what I implemented and the controls for the controller <a href="https://github.com/MyNamesLex/Small-Unity-Tech-Demos/tree/main/PC/Player%20Controller%20Tech%20Demo">here</a>.
+A tech demo where I made an in depth player controller, find out more about what I implemented and the controls for the controller <a href="https://github.com/MyNamesLex/Gameplay-Mechanics/tree/main/Unity/PC/Player%20Controller">here</a>.
 
 This features Coyote Jump, Jump Buffer, Slide, Crouch, Wall Running, Jump, Pistol, Shotgun and Knife Mechanics, First Person Camera Controller, Ground Slam, Upwards and Downwards gravity. On the more programming side it features a finite state machine to help with ease of development.
 
@@ -13,7 +13,7 @@ ________________________________________________________________________________
 
 Third Person Player Controller:
 
-A tech demo where I made a third person player controller. Find out the controls, access to the build and source code <a href="https://github.com/MyNamesLex/Unreal-Engine-5-Tech-Demos/tree/master/PC/Third%20Person%20Controller">here</a>.
+A tech demo where I made a third person player controller. Find out the controls, access to the build and source code <a href="https://github.com/MyNamesLex/Gameplay-Mechanics/tree/main/Unreal%20Engine%205/PC/Third%20Person%20Controller">here</a>.
 
 This features the use of blend spaces for smoother animations for different movement inputs from the player. The different movement inputs includes crawling, crouching, jumping, sprinting and the ability to move the camera closer or further from the player. 
 

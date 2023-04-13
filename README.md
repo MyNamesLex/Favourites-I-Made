@@ -24,7 +24,7 @@ ________________________________________________________________________________
 
 Search For A Star 2022:
 
-This was a long-term project and gave me the chance to properly refine and alter the game. I recieved some very valuable feedback from this game. I decided to upload the source code <a href="https://github.com/MyNamesLex/Search-For-A-Star-2022">here</a> for this game and to also analyse the valuable feedback I recieved.
+This was a long-term project and gave me the chance to properly refine and alter the game. I recieved some very valuable feedback from this game. I decided to upload the source code for this game and to also analyse the valuable feedback I recieved <a href="https://github.com/MyNamesLex/Search-For-A-Star-2022">here</a>.
 
 _________________________________________________________________________________________________________________________________________________________________________
 (Made using the <a href="https://www.gta5-mods.com/tools/script-hook-v">Scripthook.API</a> using C#)

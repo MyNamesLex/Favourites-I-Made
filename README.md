@@ -31,11 +31,11 @@ ________________________________________________________________________________
 
 CarsSwap:
 
-I made this mod in GTA-V and it's one of my favourite mods I have made so far, it's a really simple mod but I find it really fun to play with this mod so I included it. You can access the source code and dll file <a href="https://github.com/MyNamesLex/Modding/tree/main/GTA-V/CarSwap">here</a>
+I made this mod in GTA-V and it's one of my favourite mods I have made so far, it's a really simple mod but I find it really fun to play with this mod so I included it. You can access the source code and dll file <a href="https://github.com/MyNamesLex/Modding/tree/main/GTA-V/CarSwap">here</a>.
 
 _________________________________________________________________________________________________________________________________________________________________________
 (Made using <a href="https://dev-c.com/rdr2/scripthookrdr2/">Scripthook</a> and C++)
 
 AnimalSpawn:
 
-I made this mod in Red Dead Redemption 2 and is one of my favourite mods because I expanded my C++ knowledge by learning and implementing the ability to read .ini files and immediately use the values from that ini file without having to close the game. It's also just really fun to play around with and have the mod spawn different animals at different positions at different time frames. Check it out <a href="https://github.com/MyNamesLex/Modding/tree/main/Red-Dead-Redemption-2/AnimalSpawn">here</a>
+I made this mod in Red Dead Redemption 2 and is one of my favourite mods because I expanded my C++ knowledge by learning and implementing the ability to read .ini files and immediately use the values from that ini file without having to close the game. It's also just really fun to play around with and have the mod spawn different animals at different positions at different time frames. Check it out <a href="https://github.com/MyNamesLex/Modding/tree/main/Red-Dead-Redemption-2/AnimalSpawn">here</a>.

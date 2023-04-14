@@ -38,4 +38,4 @@ ________________________________________________________________________________
 
 AnimalSpawn:
 
-I made this mod in Red Dead Redemption 2 and is one of my favourite mods because I expanded my C++ knowledge by learning and implementing the ability to read .ini files and immediately use the values from that ini file without having to close the game. It's also just really fun to play around with and have the mod spawn different animals at different positions at different time frames.
+I made this mod in Red Dead Redemption 2 and is one of my favourite mods because I expanded my C++ knowledge by learning and implementing the ability to read .ini files and immediately use the values from that ini file without having to close the game. It's also just really fun to play around with and have the mod spawn different animals at different positions at different time frames. Check it out <a href="https://github.com/MyNamesLex/Modding/tree/main/Red-Dead-Redemption-2/AnimalSpawn">here</a>

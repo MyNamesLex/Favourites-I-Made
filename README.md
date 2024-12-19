@@ -1,14 +1,6 @@
 # Favourites-I-Made
 
-(Made using the Unity Game Engine using C#)
 
-Player Controller:
-
-A tech demo where I made an in depth player controller, find out more about what I implemented and the controls for the controller <a href="https://github.com/MyNamesLex/Gameplay-Mechanics/tree/main/Unity/PC/Player%20Controller">here</a>.
-
-This features Coyote Jump, Jump Buffer, Slide, Crouch, Wall Running, Jump, Pistol, Shotgun and Knife Mechanics, First Person Camera Controller, Ground Slam, Upwards and Downwards gravity. On the more programming side it features a finite state machine to help with ease of development.
-
-_________________________________________________________________________________________________________________________________________________________________________
 (Made using Unreal Engine 5 using Blueprints and C++)
 
 Extraction Shooter (Cancelled Project):

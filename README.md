@@ -11,7 +11,7 @@ This features Coyote Jump, Jump Buffer, Slide, Crouch, Wall Running, Jump, Pisto
 _________________________________________________________________________________________________________________________________________________________________________
 (Made using Unreal Engine 5 using Blueprints and C++)
 
-Extraction Shooter (Canceled Project):
+Extraction Shooter (Cancelled Project):
 
 A 12 month project that I decided to cancel continued development for, I learnt a lot from working on this project, source code and more details can be found <a href="https://github.com/MyNamesLex/Cancelled-Projects/tree/main/Unreal%20Engine%205/Extraction%20Shooter">here</a>.
 

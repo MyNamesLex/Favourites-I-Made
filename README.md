@@ -11,13 +11,9 @@ This features Coyote Jump, Jump Buffer, Slide, Crouch, Wall Running, Jump, Pisto
 _________________________________________________________________________________________________________________________________________________________________________
 (Made using Unreal Engine 5 using Blueprints and C++)
 
-Third Person Player Controller:
+Extraction Shooter (Canceled Project):
 
-A tech demo where I made a third person player controller. Find out the controls, access to the build and source code <a href="https://github.com/MyNamesLex/Gameplay-Mechanics/tree/main/Unreal%20Engine%205/PC/Third%20Person%20Controller">here</a>.
-
-This features the use of blend spaces for smoother animations for different movement inputs from the player. The different movement inputs includes crawling, crouching, jumping, sprinting and the ability to move the camera closer or further from the player. 
-
-(Do note that I could not find animations for crawling to the left, back or right so I could not do a blend space for those animations or different animations for different crawling inputs.)
+A 12 month project that I decided to cancel continued development for, I learnt a lot from working on this project, source code and more details can be found <a href="https://github.com/MyNamesLex/Cancelled-Projects/tree/main/Unreal%20Engine%205/Extraction%20Shooter">here</a>.
 
 _________________________________________________________________________________________________________________________________________________________________________
 (Made using the Unity Game Engine using C#)
